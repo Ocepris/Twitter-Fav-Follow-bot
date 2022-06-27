@@ -1,12 +1,12 @@
 #your twitter auth keys (https://developer.twitter.com/en/apps)
-api_key = "z7CfokC9iJRZOFGUtbvUws1YS"
-api_secret_key = "F6DhS2pbzdOVWR83epy20MZ5PZzO9Og02FUdlGCIKqDMSk5KPn"
+api_key = ""
+api_secret_key = ""
 
-access_token = "1116785970756583424-9QBRMtXjqr4qZw6zE9aVbCKD3CmB1v"
-access_token_secret = "qjGdDS8dpGeg1jYbwPFFxdWhezZ5N10XdXzAaUhblhqsN"
+access_token = ""
+access_token_secret = ""
 
 #standard search query input
-search_query = 'gameDev OR screeps OR MaschineLearning OR MLAgents OR #indiegame OR #madewithunity'
+search_query = 'gameDev OR screeps OR machinelearning OR MLAgents OR #indiegame OR #madewithunity'
 
 #amount of tweets to pull
 AMT_TWEETS = 250
